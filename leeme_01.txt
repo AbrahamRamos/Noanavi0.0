@@ -1,0 +1,45 @@
+Orden:
+
+1. Hero (2 secciones)
+2. Servicios (fondo blanco, papel)
+3. Quienes somos (parallax img oscura con código)
+4. Tecnologías (fondo bolitas)
+5. Footer - con contacto? (fondo gris oscuro)
+
+x. Nav
+
+
+Abraham:
+
+Hero Banner
+ - Parallax (90 - 10)%
+ - quitar carrusel
+
+Footer (3 columnas)
+
+| Acerca de  | Forma Contacto  | ContactUs con FolowUs |
+
+
+
+Roger:
+
+Servicios 
+         - lista completa de servicios sin toogle
+         - al final un boton tipo flecha o texto de ver mas
+         - hover
+Tecnologias
+		 -
+
+
+Alex: 
+
+Nav
+Sesion
+Usuario
+
+
+
+--------------------------------------------------------------------------------
+
+
+Animaciones y efectos
