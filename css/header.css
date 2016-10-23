@@ -1,0 +1,11 @@
+.herobanner{
+  background-image: url("../img/thing.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-size    : cover;
+  background-repeat: no-repeat;
+  width              : 100%;
+  height             : 100%;
+  display            : flex;
+
+}
