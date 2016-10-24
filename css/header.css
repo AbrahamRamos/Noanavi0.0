@@ -1,4 +1,4 @@
-.herobanner{
+div.herobanner{
   background-image: url("../img/thing.jpg");
   background-position: center center;
   background-attachment: fixed;
@@ -7,5 +7,10 @@
   width              : 100%;
   height             : 100%;
   display            : flex;
+  
+  div.box{
+    background-color: black;
+    opacity: 0.5;
+  }
 
 }
